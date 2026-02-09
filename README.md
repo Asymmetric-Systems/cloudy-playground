@@ -24,3 +24,11 @@ From tiny seeds great beauty grows,
 With patient care through sun and rain,
 Each blossom tells what nature knows,
 That life persists through joy and pain.
+
+## Garden Visitor
+
+```
+ /\_/\  
+( o.o ) 
+ > ^ <
+```
